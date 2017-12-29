@@ -1,0 +1,24 @@
+{
+  "name": "node-rss",
+  "version": "1.0.0",
+  "description": "Node RSS feeds downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "rss",
+    "feed",
+    "downloader"
+  ],
+  "author": "a.kermabon@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "asyncawait": "1.0.6",
+    "moment": "2.17.1",
+    "request": "2.79.0",
+    "request-promise": "4.1.1",
+    "xml2json": "0.11.0"
+  }
+}
